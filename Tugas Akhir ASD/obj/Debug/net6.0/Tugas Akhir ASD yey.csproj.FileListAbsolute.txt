@@ -1,0 +1,14 @@
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\bin\Debug\net6.0\Tugas Akhir ASD yey.exe
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\bin\Debug\net6.0\Tugas Akhir ASD yey.deps.json
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\bin\Debug\net6.0\Tugas Akhir ASD yey.runtimeconfig.json
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\bin\Debug\net6.0\Tugas Akhir ASD yey.dll
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\bin\Debug\net6.0\Tugas Akhir ASD yey.pdb
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\Tugas Akhir ASD yey.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\Tugas Akhir ASD yey.AssemblyInfoInputs.cache
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\Tugas Akhir ASD yey.AssemblyInfo.cs
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\Tugas Akhir ASD yey.csproj.CoreCompileInputs.cache
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\Tugas Akhir ASD yey.dll
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\refint\Tugas Akhir ASD yey.dll
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\Tugas Akhir ASD yey.pdb
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\Tugas Akhir ASD yey.genruntimeconfig.cache
+D:\Tanzano Sem 3\Algoritma Struktur Data\Tugas Akhir ASD yey\Tugas Akhir ASD yey\obj\Debug\net6.0\ref\Tugas Akhir ASD yey.dll
